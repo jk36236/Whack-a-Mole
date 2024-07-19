@@ -41,6 +41,7 @@ function countDown(){
      grid.style.display='none';
      gameMusic.pause();
      pauseBtn.style.display='none';
+     timeLeftH2.style.display='none';
    }
 }
 
@@ -50,7 +51,7 @@ function startGame(){
    timeLeft=60;
    scoreH2.innerHTML=`Your Score: 0`;
    timeLeftH2.innerHTML=`Time Left: 60`;
-   grid.style.display='flex';
+   window.innerWidth <= 600 ? grid.style.display='grid' :grid.style.display='flex';
    pauseBtn.style.display='inline-block';
    pauseBtn.innerHTML='Pause';
    gameMusic.play();
