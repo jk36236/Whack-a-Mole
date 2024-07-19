@@ -51,6 +51,10 @@ button:hover{
   cursor: pointer;
 }
 
+#pauseGame{
+  display: none;
+}
+
 .grid{
   display: flex;
   flex-wrap: wrap;
