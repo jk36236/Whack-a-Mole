@@ -13,16 +13,11 @@ Hi! My name is  **Jatin Kumar**, I have created  this Javascript game.
 
 ## Concepts:-
 [](https://github.com/jk36236/Whack-a-Mole/tree/master#concepts)
->callback functions
->setTimeout & clearTimeout
->setInterval & clearInterval
+>callback functions,
+>setTimeout & clearTimeout,
+>setInterval & clearInterval,
 >Array methods
 
-## Images
-[](https://github.com/jk36236/Whack-a-Mole/tree/master#images)
-![Start Screen](https://photos.app.goo.gl/qPD9gDgRjYhYF3Bq9)
-
-![End Screen](https://photos.app.goo.gl/nuE75WdVWK8Bj5LG9)
 
 ## Author
 
